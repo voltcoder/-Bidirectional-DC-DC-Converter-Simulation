@@ -58,7 +58,7 @@ The following parameters are monitored in the simulation:
 
 ---
 
-## ▶️ How to Run the Simulation
+##  How to Run the Simulation
 1. Open **MATLAB**
 2. Set the working directory to the project folder
 3. Open the Simulink model:
