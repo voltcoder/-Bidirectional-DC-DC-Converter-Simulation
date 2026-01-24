@@ -37,6 +37,7 @@ The controller compares the **reference battery current** with the **measured ba
 ---
 
 ## Modes of Operation
+---
 ### Charging Mode
 - Power flows from DC source to battery  
 - Converter operates in **buck mode**  
@@ -66,3 +67,4 @@ The following parameters are monitored in the simulation:
 **attached in this repository**
 ---
 Developed by Swati Sharma — 2025
+(electrical engineer,ev enthusiasts)
